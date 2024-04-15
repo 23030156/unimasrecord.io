@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rekod Pelajar</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <img src="logo/unimas.png" alt="Logo" class="logo">
+        <h1>REKOD PELAJAR</h1>
+        <p>FA6462-HUBUNGAN ANTARABANGSA</p>
+        <div id="student-info"></div>
+        
+        <div class="search-container">
+            <label for="searchSelect">Search by:</label>
+            <select id="searchSelect">
+                <option value="matricNo">Matric No</option>
+                <option value="firstName">First Name</option>
+                <option value="lastName">Last Name</option>
+            </select>
+            <input type="text" id="searchInput" placeholder="Enter search term...">
+            <button onclick="searchStudent()">Search</button>
+        </div>
+
+        <div class="navigation">
+            <button onclick="prevStudent()">Previous</button>
+            <button onclick="nextStudent()">Next</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

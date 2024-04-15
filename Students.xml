@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<University>
+    <Students>
+        <Student>
+            <MatricNo>0001</MatricNo>
+            <FirstName>zamarul</FirstName>
+            <LastName>hisyam</LastName>
+            <ContactNo>013465786</ContactNo>
+            <Email>zamarul@outlook.com</Email>
+            <Address>5, jalan paya jaras</Address>
+            <City>kajang</City>
+            <State>selangor</State>
+            <Postcode>36400</Postcode>
+        </Student>
+        <Student>
+            <MatricNo>0002</MatricNo>
+            <FirstName>sakinah</FirstName>
+            <LastName>hasyim</LastName>
+            <ContactNo>011345675</ContactNo>
+            <Email>sakinah@outlook.com</Email>
+            <Address>7, jalan ah fook</Address>
+            <City>kulim</City>
+            <State>kedah</State>
+            <Postcode>73400</Postcode>
+        </Student>
+		<Student>
+            <MatricNo>0003</MatricNo>
+            <FirstName>azman</FirstName>
+            <LastName>fuadi</LastName>
+            <ContactNo>011577434</ContactNo>
+            <Email>fuadi@outlook.com</Email>
+            <Address>9, jalan melati</Address>
+            <City>butterworth</City>
+            <State>pulau pinang</State>
+            <Postcode>86500</Postcode>
+        </Student>
+		<Student>
+            <MatricNo>0004</MatricNo>
+            <FirstName>kamal</FirstName>
+            <LastName>affendi</LastName>
+            <ContactNo>010765397</ContactNo>
+            <Email>kamal@outlook.com</Email>
+            <Address>1, jalan belanga</Address>
+            <City>bestari jaya</City>
+            <State>selangor</State>
+            <Postcode>36986</Postcode>
+        </Student>
+		<Student>
+            <MatricNo>0005</MatricNo>
+            <FirstName>samsul</FirstName>
+            <LastName>faizal</LastName>
+            <ContactNo>013465875</ContactNo>
+            <Email>samsul@outlook.com</Email>
+            <Address>3, jalan perpaduan</Address>
+            <City>kajang</City>
+            <State>selangor</State>
+            <Postcode>36700</Postcode>
+        </Student>
+		<Student>
+            <MatricNo>0006</MatricNo>
+            <FirstName>fakrul</FirstName>
+            <LastName>zamani</LastName>
+            <ContactNo>0111465387</ContactNo>
+            <Email>zamani@outlook.com</Email>
+            <Address>9, jalan merdeka</Address>
+            <City>seremban</City>
+            <State>negeri sembilan</State>
+            <Postcode>89799</Postcode>
+        </Student>
+		<Student>
+            <MatricNo>0007</MatricNo>
+            <FirstName>alana</FirstName>
+            <LastName>azman</LastName>
+            <ContactNo>013764089</ContactNo>
+            <Email>alana@outlook.com</Email>
+            <Address>8, jalan mergastua</Address>
+            <City>ipoh</City>
+            <State>perak</State>
+            <Postcode>86980</Postcode>
+        </Student>
+		<Student>
+            <MatricNo>0008</MatricNo>
+            <FirstName>uyaina</FirstName>
+            <LastName>arsyad</LastName>
+            <ContactNo>011786534</ContactNo>
+            <Email>uyaina@outlook.com</Email>
+            <Address>7, jalan wawasan</Address>
+            <City>klang</City>
+            <State>selangor</State>
+            <Postcode>57689</Postcode>
+        </Student>
+		<Student>
+            <MatricNo>0009</MatricNo>
+            <FirstName>nabilah</FirstName>
+            <LastName>arsyad</LastName>
+            <ContactNo>016986474</ContactNo>
+            <Email>nabilah@outlook.com</Email>
+            <Address>6, jalan harapan</Address>
+            <City>shah alam</City>
+            <State>selangor</State>
+            <Postcode>675386</Postcode>
+        </Student>
+		<Student>
+            <MatricNo>00010</MatricNo>
+            <FirstName>alif</FirstName>
+            <LastName>aziz</LastName>
+            <ContactNo>+65438769</ContactNo>
+            <Email>alif@outlook.com</Email>
+            <Address>blk.12 jurong east</Address>
+            <City>jurong</City>
+            <State>singapore</State>
+            <Postcode>897876</Postcode>
+        </Student>
+		
+        
+    </Students>
+</University>
